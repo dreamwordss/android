@@ -25,5 +25,8 @@ public class TruckGangMainActivity extends Activity {
         setContentView(rootView);
     }
 
+    public void change() {
+
+    }
 
 }
