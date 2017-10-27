@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginRight="6dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="按时打算打按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大算大所大" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="按时打算打按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大算大所大" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="按时打算打按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大算大所大" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="按时打算打按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大算大所大" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="按时打算打按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大算大所大" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="按时打算打按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大算大所大" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="按时打算打按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大算大所大" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="按时打算打按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大算大所大" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="按时打算打按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大算大所大" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="按时打算打按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大按时打算打算大所大算大所大" />
+
+    </LinearLayout>
+
+</RelativeLayout>

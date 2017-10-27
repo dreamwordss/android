@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/default_ptr_rotate.png",
+        "source": "/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/build/intermediates/bundles/debug/res/drawable-hdpi-v4/default_ptr_rotate.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/indicator_arrow.png",
+        "source": "/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/build/intermediates/bundles/debug/res/drawable-hdpi-v4/indicator_arrow.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/default_ptr_flip.png",
+        "source": "/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/build/intermediates/bundles/debug/res/drawable-hdpi-v4/default_ptr_flip.png"
+    }
+]

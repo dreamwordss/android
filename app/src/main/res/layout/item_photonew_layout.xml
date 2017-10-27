@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageview_photo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/checkmark"
+        android:layout_width="15dip"
+        android:layout_height="15dip"
+        android:layout_gravity="bottom|right"
+        android:layout_marginBottom="5dip"
+        android:layout_marginRight="5dip"
+        android:background="@drawable/image_seelctor"
+        android:gravity="center"
+        android:padding="0dp"
+        android:textColor="@color/white"
+        android:textSize="11dip"
+        android:visibility="visible" />
+
+    <TextView
+        android:layout_width="15dip"
+        android:layout_height="15dip"
+        android:layout_gravity="bottom|right"
+        android:layout_marginBottom="5dip"
+        android:layout_marginRight="5dip"
+        android:background="@drawable/bg_red_shape"
+        android:gravity="center"
+        android:padding="0dp"
+        android:textColor="@color/white"
+        android:textSize="11dip"
+        android:visibility="gone" />
+</FrameLayout>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/build/intermediates/res/merged/androidTest/debug/drawable/loading_gif.xml",
+        "source": "/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/build/intermediates/bundles/debug/res/drawable/loading_gif.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/build/intermediates/bundles/debug/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/build/intermediates/res/merged/androidTest/debug/drawable/loading_foot_gif.xml",
+        "source": "/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/build/intermediates/bundles/debug/res/drawable/loading_foot_gif.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/build/intermediates/res/merged/androidTest/debug/drawable/loaddialog_gif.xml",
+        "source": "/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/build/intermediates/bundles/debug/res/drawable/loaddialog_gif.xml"
+    }
+]

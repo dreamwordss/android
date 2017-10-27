@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/src/main/assets"/><source path="/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/mac/Desktop/workspace/demo/codek3demo/pulltorefreshlibrary/src/release/assets"/></dataSet></merger>

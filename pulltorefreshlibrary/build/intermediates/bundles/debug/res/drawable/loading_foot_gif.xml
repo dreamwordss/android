@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/loading_foot_1"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/loading_foot_2"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/loading_foot_3"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/loading_foot_4"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/loading_foot_5"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/loading_foot_6"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/loading_foot_7"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/loading_foot_8"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/loading_foot_9"
+        android:duration="60" />
+
+    <item
+        android:drawable="@drawable/loading_foot_10"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/loading_foot_11"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/loading_foot_12"
+        android:duration="60" />
+
+</animation-list>

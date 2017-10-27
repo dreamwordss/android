@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_search_content"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingLeft="0.5dp"
+    android:paddingRight="0.5dp"
+    android:paddingTop="0.5dp">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp">
+
+        <com.lbl.codek3demo.taobao.BLMeasureImageView
+            android:id="@+id/ivVideoIcon"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/ic_launcher" />
+
+        <ImageView
+            android:id="@+id/ivItemFlag"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="bottom|right"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="10dp" />
+
+    </FrameLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:paddingTop="10dp">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:maxLines="2"
+            android:singleLine="true"
+            android:text="标题标题标题标题标题标题标题标题"
+            android:textColor="#222222"
+            android:textSize="14dp"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/title"
+            android:layout_marginBottom="10dp"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="描述描述描述描述描述描述描述描述描述描述描述描述"
+            android:textColor="@color/xhc_black_second"
+            android:textSize="12dp" />
+
+        <View
+            android:id="@+id/item_devide_line"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_below="@id/content"
+            android:background="@color/divercolor" />
+
+        <ImageView
+            android:id="@+id/user_head"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:layout_below="@+id/item_devide_line"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:src="@mipmap/ic_launcher" />
+
+
+        <TextView
+            android:id="@+id/user_name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/item_devide_line"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="45dp"
+            android:layout_marginTop="11dp"
+            android:layout_toRightOf="@id/user_head"
+            android:gravity="center_vertical|left"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:text="昵称昵称昵称昵称"
+            android:textColor="#808080"
+            android:textSize="11dp" />
+
+        <TextView
+            android:id="@+id/play_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/item_devide_line"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:drawablePadding="5dp"
+            android:gravity="center"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:text=""
+            android:textColor="#bebebe"
+            android:textSize="10dp" />
+
+    </RelativeLayout>
+
+</LinearLayout>
